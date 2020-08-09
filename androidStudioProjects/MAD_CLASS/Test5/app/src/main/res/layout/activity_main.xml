@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="174dp"
+        android:layout_height="67dp"
+        android:onClick="sendFoodSelection"
+        android:text="Food 1"
+        android:textSize="30sp" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="174dp"
+        android:layout_height="68dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="89dp"
+        android:onClick="sendFoodSelection"
+        android:text="Food 2"
+        android:textSize="30sp" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="156dp"
+        android:layout_height="53dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="205dp"
+        android:onClick="sendFoodSelection"
+        android:text="Food 3"
+        android:textSize="30sp" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="143dp"
+        android:layout_height="64dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="302dp"
+        android:onClick="sendFoodSelection"
+        android:text="Food 4"
+        android:textSize="30sp" />
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#Sat Apr 04 05:33:28 IST 2020
+base.0=D\:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

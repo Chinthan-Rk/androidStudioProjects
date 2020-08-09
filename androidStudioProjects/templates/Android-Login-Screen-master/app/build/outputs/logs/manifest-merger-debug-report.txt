@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.databinding:adapters:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\a4f22b40e2d295468f5071593b9bbb74\adapters-3.6.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\718cfa24a71972b2930f702c54f268f6\library-3.6.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\bc7db21462401ec070d7e709d4e01067\design-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\72cc02a7fbb4e4eb022060c24d519121\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\2edbab73abb0ed010ac0c1382290b7fd\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\acf8fb5e2311ea9b4ac973919480d378\recyclerview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.databinding:viewbinding:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\5ca0cf2f75bc220b94d75dbe69467f82\viewbinding-3.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c8a01efa0e07374f5ed15f720d18115a\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\f2b9cb991ec44388657d9f7c0c842b78\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c632e57e5b62eb3a0ebaba15a9df6673\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\8a5906e891827c98941b3a565266ab69\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c1ff7540dad493f6d6dd034c15482cfd\transition-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\222c27d2ef82d01f4dd9191aeab9b795\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\ff5f91fc123e28e3f0306f00a86c1639\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\33573a782a2830d26ff38c0ad8420cc7\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\f389a71938b42d8f5c8a19c10fecc48e\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:5:5-22:19
+	android:supportsRtl
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.myhexaville.login.MainActivity
+ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:11:9-21:20
+	android:screenOrientation
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:14:13-49
+	android:label
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\a4f22b40e2d295468f5071593b9bbb74\adapters-3.6.2\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\a4f22b40e2d295468f5071593b9bbb74\adapters-3.6.2\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\718cfa24a71972b2930f702c54f268f6\library-3.6.2\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\718cfa24a71972b2930f702c54f268f6\library-3.6.2\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\bc7db21462401ec070d7e709d4e01067\design-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\bc7db21462401ec070d7e709d4e01067\design-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\72cc02a7fbb4e4eb022060c24d519121\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\72cc02a7fbb4e4eb022060c24d519121\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\2edbab73abb0ed010ac0c1382290b7fd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\2edbab73abb0ed010ac0c1382290b7fd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\acf8fb5e2311ea9b4ac973919480d378\recyclerview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\acf8fb5e2311ea9b4ac973919480d378\recyclerview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.databinding:viewbinding:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\5ca0cf2f75bc220b94d75dbe69467f82\viewbinding-3.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.databinding:viewbinding:3.6.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\5ca0cf2f75bc220b94d75dbe69467f82\viewbinding-3.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c8a01efa0e07374f5ed15f720d18115a\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c8a01efa0e07374f5ed15f720d18115a\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\f2b9cb991ec44388657d9f7c0c842b78\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\f2b9cb991ec44388657d9f7c0c842b78\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c632e57e5b62eb3a0ebaba15a9df6673\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c632e57e5b62eb3a0ebaba15a9df6673\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\8a5906e891827c98941b3a565266ab69\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\8a5906e891827c98941b3a565266ab69\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c1ff7540dad493f6d6dd034c15482cfd\transition-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\c1ff7540dad493f6d6dd034c15482cfd\transition-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\222c27d2ef82d01f4dd9191aeab9b795\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\222c27d2ef82d01f4dd9191aeab9b795\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\ff5f91fc123e28e3f0306f00a86c1639\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\ff5f91fc123e28e3f0306f00a86c1639\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\33573a782a2830d26ff38c0ad8420cc7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\33573a782a2830d26ff38c0ad8420cc7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\f389a71938b42d8f5c8a19c10fecc48e\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Chinthan Rk\.gradle\caches\transforms-2\files-2.1\f389a71938b42d8f5c8a19c10fecc48e\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidStudioProjects\templates\Android-Login-Screen-master\app\src\main\AndroidManifest.xml

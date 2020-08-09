@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Question7</string>
+    <string-array name="Cows">
+        <item>Papa Cow</item>
+        <item>Mama Cow</item>
+        <item>Baby Cow</item>
+        <item>Cow Cow</item>
+        <item>Holy Cow</item>
+    </string-array>
+</resources>

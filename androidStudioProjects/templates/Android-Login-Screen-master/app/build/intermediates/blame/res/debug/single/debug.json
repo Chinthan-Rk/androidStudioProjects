@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_signup.xml.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble.xml.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\drawable\\bubble.xml"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout.xml.flat",
+        "source": "D:\\androidStudioProjects\\templates\\Android-Login-Screen-master\\app\\src\\main\\res\\layout\\item_layout.xml"
+    }
+]
